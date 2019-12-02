@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1574020833 source:c:\users\33763\desktop\cours\informatique\programmes\projet informatique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574020833 c:\users\33763\desktop\cours\informatique\programmes\projet informatique\menu.h
+
+1574022261 source:c:\users\33763\desktop\cours\informatique\programmes\projet informatique\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1575289791 source:c:\users\33763\desktop\cours\projets en cours\projet informatique\projet informatique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"affichage_zone_de_jeu.h"
+	"pioche.h"
+	"procedure_main.h"
+
+1574868794 c:\users\33763\desktop\cours\projets en cours\projet informatique\projet informatique\menu.h
+
+1575235760 source:c:\users\33763\desktop\cours\projets en cours\projet informatique\projet informatique\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Menu.h"
+
+1575295099 source:c:\users\33763\desktop\cours\projets en cours\projet informatique\projet informatique\pioche.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pioche.h"
+
+1575295100 c:\users\33763\desktop\cours\projets en cours\projet informatique\projet informatique\pioche.h
+
+1574364746 c:\users\33763\desktop\cours\projets en cours\projet informatique\projet informatique\affichage_zone_de_jeu.h
+
+1574713245 source:c:\users\33763\desktop\cours\projets en cours\projet informatique\projet informatique\affihage zone de jeu.c
+	<stdio.h>
+	<stdlib.h>
+
+1575295099 source:c:\users\33763\desktop\cours\projets en cours\projet informatique\projet informatique\procedure_main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"procedure_main.h"
+	"pioche.h"
+
+1575293468 c:\users\33763\desktop\cours\projets en cours\projet informatique\projet informatique\procedure_main.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"procedure_main.h"
+	"pioche.h"
+
